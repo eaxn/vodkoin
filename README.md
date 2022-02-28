@@ -5,6 +5,6 @@ A next-generation crypto currency.
 |Feature|Working?|
 |-----|-----|
 Nothing|Yes
-16000 Bit Private Key|No
-1000 Bit Public Key|No
+16000 Bit (2000 Byte) Private Key|No
+1024 Bit (128 Byte) Public Key|No
 Good Blockchain|No
