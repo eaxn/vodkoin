@@ -2,7 +2,9 @@
 A next-generation crypto currency.
 ## Features
 
-[x] Nothing
-[  ] 16000 Bit Private Key\
-[  ] 1000 Bit Public Key\
-[  ] Good Blockchain\
+|Feature|Working?|
+|-----|-----|
+Nothing|Yes
+16000 Bit Private Key|No
+1000 Bit Public Key|No
+Good Blockchain|No
